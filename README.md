@@ -1,11 +1,11 @@
-# Full Stack Test - MJ Solution Indonesia
+# 🚀 Full Stack Test - MJ Solution Indonesia
 
-## Tech Stack
+## 🛠️ Tech Stack
 - Frontend: React.js + Vite + Tailwind CSS
 - Backend: Node.js + Express.js
 - Auth: JWT
 
-## Quick Start
+## ⚡ Quick Start
 ```bash
 # Install dependencies
 npm run install-all
@@ -26,11 +26,11 @@ npm run dev
 npm run build
 ```
 
-## Login Credentials
+## 🔐 Login Credentials
 - Username: `admin`
 - Password: `admin`
 
-## Project Structure
+## 📁 Project Structure
 ```
 fullstack-test/
 ├── frontend/          # React frontend
@@ -38,22 +38,22 @@ fullstack-test/
 └── package.json       # Root scripts
 ```
 
-## API Endpoints
+## 📡 API Endpoints
 - `POST /api/auth/login` - Login
 - `POST /api/auth/logout` - Logout  
 - `GET /api/dashboard` - Dashboard (protected)
 
-## Port
+## 🌐 Port
 - Frontend: `http://localhost:5173`
 - Backend: `http://localhost:5000`
 
-## Dependencies
+## 📦 Dependencies
 ### Root
 - `concurrently` - Run multiple commands
-- `lucide-react` - Icon library
 
 ### Frontend
 - `react` - UI library
+- `lucide-react` - Icon library
 - `react-router-dom` - Routing
 - `axios` - HTTP client
 - `tailwindcss` - CSS framework
